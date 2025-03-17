@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My Process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Live Site URL: [](https://gurr-r.github.io/frontend-mentor-QR-Code/)
 
-
+## My Process
 ### Built with
 
 - Semantic HTML5 markup
